@@ -6,7 +6,7 @@
 // null: el cliente usa el mismo origen con ws:// o wss:// según el protocolo.
 //
 // Para la app móvil, apunta al servidor público, p. ej.:
-//   window.FUTBOLIN_SERVER_URL = 'wss://futbolin.ejemplo.com';
-//   window.FUTBOLIN_SHARE_URL  = 'https://futbolin.ejemplo.com';
-window.FUTBOLIN_SERVER_URL = null;
-window.FUTBOLIN_SHARE_URL = null;
+window.FUTBOLIN_SERVER_URL = 'wss://tacobooks.com:3001';
+window.FUTBOLIN_SHARE_URL  = 'https://tacobooks.com:3001';
+//window.FUTBOLIN_SERVER_URL = null;
+//window.FUTBOLIN_SHARE_URL = null;
