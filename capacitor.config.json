@@ -1,6 +1,6 @@
 {
-  "appId": "com.symphoniertech.billar",
-  "appName": "Oldie Billar",
+  "appId": "com.symphoniertech.furbolin",
+  "appName": "Futbolín retro",
   "webDir": "www",
   "bundledWebRuntime": false,
   "server": {
