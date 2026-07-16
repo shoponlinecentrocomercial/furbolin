@@ -1,0 +1,10 @@
+{
+  "appId": "com.symphoniertech.billar",
+  "appName": "Oldie Billar",
+  "webDir": "www",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https",
+    "allowNavigation": ["tacobooks.com"]
+  }
+}
